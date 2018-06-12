@@ -1,6 +1,8 @@
 
-| Author | pkacprzak |
-| Difficulty | Medium |
+| Challenge info | info   |
+| ----       | -----     |
+| Author     | pkacprzak |
+| Difficulty | Medium    |
 | Challenge link | [link](https://www.hackerrank.com/challenges/magic-square-forming/problem) |
 
  
